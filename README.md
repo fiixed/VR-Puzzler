@@ -8,7 +8,7 @@ This was the final project for the Udacity VR Nanodegree - VR Design course
 
 Clone the GitHub repository
 
-$ git clone https://github.com/fiixed/VR-Puzzler.git
+`$ git clone https://github.com/fiixed/VR-Puzzler.git`
 
 Open the project in Unity 5.5.1 or later
 
